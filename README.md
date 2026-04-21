@@ -20,8 +20,6 @@ The analysis follows the CRISP-DM framework:
 2. Data Understanding  
 3. Data Preparation  
 4. Modelling  
-   - RFM analysis  
-   - K-means clustering  
 5. Evaluation  
 6. Interpretation of results and business implications  
 
