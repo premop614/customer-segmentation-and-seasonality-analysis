@@ -27,7 +27,7 @@ RFM variables were calculated at the customer level, where Recency represents th
 
 K-means clustering was applied to identify groups of customers with similar behaviour. The optimal number of clusters was determined using the elbow method.
 
-Seasonality analysis was performed on aggregated time series data. Monthly patterns and seasonal indices were used to identify fluctuations in customer activity across different periods of the year.
+Seasonality analysis was performed on aggregated time series data. Monthly patterns and seasonal indices were used to identify fluctuations in customer activity, with a focus on key periods such as Back-to-School and Christmas.
 
 ## Key Findings
 
