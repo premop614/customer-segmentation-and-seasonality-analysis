@@ -51,8 +51,6 @@ Seasonal variation was observed in customer activity, particularly during specif
 
 ## Note
 
-This project is part of a master’s thesis and focuses on analytical methodology and interpretation of results. It is not intended as a production-ready solution.
-
 The data preparation and exploratory analysis were initially performed in Excel, while the modelling and advanced analysis were implemented in Python.# customer-segmentation-seasonality-analysis
 This repository contains the analytical part of a master’s thesis focused on understanding customer behaviour using data-driven methods.
 
