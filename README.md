@@ -39,10 +39,9 @@ Seasonal effects were identified as an important factor influencing customer beh
 
 ## Repository Structure
 
-.
+├── README.md  
 ├── analysis.ipynb  
 ├── Master Thesis.docx  
-├── README.md  
 
 ## Tools and Technologies
 
