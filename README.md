@@ -39,9 +39,9 @@ Seasonal variation was observed in customer activity, particularly during specif
 
 ## Repository Structure
 
+├── Master Thesis.pdf  
 ├── README.md  
 ├── analysis.ipynb  
-├── Master Thesis.pdf  
 
 ## Tools and Technologies
 
