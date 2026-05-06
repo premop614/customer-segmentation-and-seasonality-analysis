@@ -136,5 +136,5 @@ The original dataset is not publicly available because it contains company trans
 The initial data exploration, quality assessment, and part of the data preparation were performed in Excel, while modelling and advanced analysis were implemented in Python.
 
 ## Author
-Přemysl Opálka
+Přemysl Opálka,
 Master’s thesis project, Masaryk University
